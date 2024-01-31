@@ -1,1 +1,1 @@
-Writing my own implementation of a hashmap and hashset. 
+My own implementation of a hashmap and hashset. 
